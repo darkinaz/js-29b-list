@@ -5,5 +5,4 @@ import { Dictionary } from "./components/dictionary.js";
 // console.log(Dictionary);
 
 const zodynas = new Dictionary('.content', 'Anglu-Lietuviu-kalbos-zodynas', wordsData);
-
-console.log(zodynas);
+zodynas.init();

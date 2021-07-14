@@ -1,20 +1,35 @@
 
-const wordsData  = [
+const wordsData = [
     {
         en: 'dog',
-        lt: 'suo'
+        lt: 'šuo'
     },
     {
         en: 'cat',
-        lt: 'kate'
+        lt: 'katė'
+    },
+    255,
+    'ewfd',
+    [],
+    null,
+    {},
+    {
+        en: 'tommato'
+    },
+    {
+        lt: 'aitvaras'
     },
     {
         en: 'kite',
         lt: 'aitvaras'
     },
     {
+        en: 4856,
+        lt: 'aitvaras'
+    },
+    {
         en: 'sausage',
-        lt: 'desrele'
+        lt: 'dešrelė'
     },
     {
         en: 'team',
@@ -24,6 +39,6 @@ const wordsData  = [
         en: 'you',
         lt: 'tu'
     },
+];
 
-]
-export { wordsData}
+export { wordsData }
